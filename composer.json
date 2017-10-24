@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "milezoom/my_website",
+    "description": "Repo for my website",
+    "keywords": ["lumen", "website"],
     "license": "MIT",
     "type": "project",
     "require": {
